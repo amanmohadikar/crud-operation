@@ -1,0 +1,14 @@
+{"level":"info","message":"Successfully create product","timestamp":"2023-06-06T06:22:46.120Z"}
+{"level":"info","message":"Successfully get product By Id","timestamp":"2023-06-06T06:24:44.220Z"}
+{"level":"info","message":"Successfully get products","timestamp":"2023-06-06T06:30:13.876Z"}
+{"level":"info","message":"Successfully create product","timestamp":"2023-06-06T06:31:33.474Z"}
+{"level":"info","message":"Successfully create product","timestamp":"2023-06-06T07:10:13.733Z"}
+{"level":"info","message":"Successfully get products","timestamp":"2023-06-06T07:10:51.608Z"}
+{"level":"info","message":"Successfully get product By Id","timestamp":"2023-06-06T07:11:02.003Z"}
+{"level":"info","message":"Successfully update product","timestamp":"2023-06-06T07:11:15.213Z"}
+{"level":"info","message":"Successfully delete product","timestamp":"2023-06-06T07:11:31.462Z"}
+{"level":"info","message":"Successfully create product","timestamp":"2023-06-06T07:12:32.763Z"}
+{"level":"info","message":"Successfully get products","timestamp":"2023-06-06T07:12:49.903Z"}
+{"level":"info","message":"Successfully get product By Id","timestamp":"2023-06-06T07:13:30.294Z"}
+{"level":"info","message":"Successfully update product","timestamp":"2023-06-06T07:13:43.675Z"}
+{"level":"info","message":"Successfully delete product","timestamp":"2023-06-06T07:13:55.272Z"}
